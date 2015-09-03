@@ -1,0 +1,22 @@
+﻿Build started 9/3/2015 2:03:47 PM.
+     1>Project "C:\Users\erwin_000\Desktop\C programming practices\BookSearchEngine\BookSearchEngine\BookSearchEngine.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt BookSearchEngine.c
+         BookSearchEngine.c
+     1>c:\users\erwin_000\desktop\c programming practices\booksearchengine\booksearchengine\booksearchengine.c(48): warning C4101: 'input' : unreferenced local variable
+     1>c:\users\erwin_000\desktop\c programming practices\booksearchengine\booksearchengine\booksearchengine.c(265): warning C4047: 'function' : 'NODE *' differs in levels of indirection from 'NODE **'
+     1>c:\users\erwin_000\desktop\c programming practices\booksearchengine\booksearchengine\booksearchengine.c(265): warning C4024: 'FrontBackSplit' : different types for formal and actual parameter 2
+     1>c:\users\erwin_000\desktop\c programming practices\booksearchengine\booksearchengine\booksearchengine.c(265): warning C4024: 'FrontBackSplit' : different types for formal and actual parameter 3
+     1>c:\users\erwin_000\desktop\c programming practices\booksearchengine\booksearchengine\booksearchengine.c(283): warning C4047: 'function' : 'NODE *' differs in levels of indirection from 'NODE **'
+     1>c:\users\erwin_000\desktop\c programming practices\booksearchengine\booksearchengine\booksearchengine.c(283): warning C4024: 'FrontBackSplit' : different types for formal and actual parameter 2
+     1>c:\users\erwin_000\desktop\c programming practices\booksearchengine\booksearchengine\booksearchengine.c(283): warning C4024: 'FrontBackSplit' : different types for formal and actual parameter 3
+     1>c:\users\erwin_000\desktop\c programming practices\booksearchengine\booksearchengine\booksearchengine.c(335): warning C4028: formal parameter 2 different from declaration
+     1>c:\users\erwin_000\desktop\c programming practices\booksearchengine\booksearchengine\booksearchengine.c(335): warning C4028: formal parameter 3 different from declaration
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\erwin_000\Desktop\C programming practices\BookSearchEngine\Debug\BookSearchEngine.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\erwin_000\Desktop\C programming practices\BookSearchEngine\Debug\BookSearchEngine.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\erwin_000\Desktop\C programming practices\BookSearchEngine\Debug\BookSearchEngine.lib" /MACHINE:X86 Debug\BookSearchEngine.obj
+         BookSearchEngine.vcxproj -> C:\Users\erwin_000\Desktop\C programming practices\BookSearchEngine\Debug\BookSearchEngine.exe
+     1>Done Building Project "C:\Users\erwin_000\Desktop\C programming practices\BookSearchEngine\BookSearchEngine\BookSearchEngine.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.61
