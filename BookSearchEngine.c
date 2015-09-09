@@ -22,9 +22,9 @@ void RangeYearsSearch(NODE * first, int from, int to);
 void YearSearch(NODE * first, int year);                 
 void AuthorSearch(NODE * first, char* art);
 void printList(NODE *first);
-
+//25
 NODE* SortedMergeYears(NODE* a, NODE* b);
-void FrontBackSplit(NODE* source, NODE* frontRef, NODE* backRef);
+void FrontBackSplit(NODE* source, NODE** frontRef, NODE** backRef);
 void MergeSortYears(NODE** headRef); 
 void MergeSortAlphabetically(NODE** headRef);
 NODE* SortedAlphabetically(NODE *a, NODE *b);
