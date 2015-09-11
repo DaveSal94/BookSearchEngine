@@ -11,4 +11,4 @@ The Crucible;Arthur Miller;1953;Checked out
 Blue Monday;Nicci French;2011;Available
 Sorcery and Cecilia;Partricia C.Wrede;1988;Checked out
 The Ring of McAllister;Robert Marantz;2004;Available
-Everlost;Neal Shusterman,Ade Sule;2006;Checked out
+Everlost;Neal Shusterman,Davis Salazar;2006;Checked out
